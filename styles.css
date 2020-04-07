@@ -1,0 +1,10 @@
+html, body {
+  font-family: 'Sen', sans-serif;
+  width: 100%;
+  min-height: 100vh;
+  background-image: url('bg.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
