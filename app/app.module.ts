@@ -21,7 +21,7 @@ const appRoutes: Routes = [
   { path: 'accounts/standard', component: StandardComponent },
   { path: 'accounts/cent', component: CentComponent },
   { path: 'accounts/PAMM', component: PAMMComponent },
-  { path: '**', redirectTo: '/'}
+  { path: '**', redirectTo: ''}
 ];
 
 @NgModule({
